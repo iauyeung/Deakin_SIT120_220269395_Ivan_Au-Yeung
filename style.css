@@ -57,7 +57,7 @@ body {
 }
 }
 .topnav input[type="text"] {
-    border: 1px solid #ccc;
+    border: 1px solid;
 }
 #search_button {
     font-size: 15px;
